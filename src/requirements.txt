@@ -1,0 +1,6 @@
+numpy
+tensorflow
+scikit-learn
+matplotlib
+datasets
+pickle5
